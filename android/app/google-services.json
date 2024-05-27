@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "898331065553",
+    "project_id": "siba-5347f",
+    "storage_bucket": "siba-5347f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898331065553:android:d8d3497dde432577ee19f0",
+        "android_client_info": {
+          "package_name": "com.example.siba_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898331065553-59agsiestriosikgnvf1vubvh734qdvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siba_weather",
+            "certificate_hash": "7b3c9f9ed5d2d245b4bef7229ca50acbbb6594a3"
+          }
+        },
+        {
+          "client_id": "898331065553-vbisqijhri4c81ffshjnm54g4qnib4vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siba_weather",
+            "certificate_hash": "58377abdb0be723d7aa155562532b0ee2a7bd80b"
+          }
+        },
+        {
+          "client_id": "898331065553-k73pdlqpucj98ccc1b44dmgnj01ujg7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqug-kyXj_vBX5Mu278OcoVnKKwO80t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898331065553-k73pdlqpucj98ccc1b44dmgnj01ujg7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898331065553-t13e3vfoc248865fu49foc9mbjrailkm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sibaWeather"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
